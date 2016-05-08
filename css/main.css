@@ -48,3 +48,9 @@ ol.a li {
     list-style-type: decimal;
     font-family: 'Roboto', sans-serif;
 }
+
+h2 {
+    font-size: 1.2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold
+}
