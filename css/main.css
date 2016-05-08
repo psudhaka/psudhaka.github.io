@@ -47,6 +47,7 @@ ol.a li {
     font-size: 0.8em;
     list-style-type: decimal;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 5px;
 }
 
 h2 {
