@@ -43,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-ul.a li {
+ol.a li {
     font-size: 1.5em;
     list-style-type: decimal;
 }
