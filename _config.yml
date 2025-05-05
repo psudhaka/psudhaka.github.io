@@ -1,2 +1,6 @@
 name: Prasad Sudhakar
 markdown: kramdown
+
+include:
+  - assets
+
